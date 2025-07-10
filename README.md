@@ -49,6 +49,16 @@ https://arxiv.org/abs/2306.00148
 
 https://github.com/Weixy21/SafeDiffuser
 
-## - L4DC 2025
+## DiffuSolve: Diffusion-Based Solver for Non-Convex Trajectory Optimization - L4DC 2025
 
 https://arxiv.org/abs/2403.05571v4
+
+## NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning
+
+https://arxiv.org/abs/2403.06828
+
+https://github.com/hanruihua/NeuPAN
+
+https://hanruihua.github.io/neupan_project/
+
+
