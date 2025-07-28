@@ -61,4 +61,10 @@ https://github.com/hanruihua/NeuPAN
 
 https://hanruihua.github.io/neupan_project/
 
+## Potential Based Diffusion Motion Planning - ICML 2024
 
+https://energy-based-model.github.io/potential-motion-plan/
+
+https://arxiv.org/abs/2407.06169
+
+https://github.com/devinluo27/potential-motion-plan-release
