@@ -68,3 +68,16 @@ https://energy-based-model.github.io/potential-motion-plan/
 https://arxiv.org/abs/2407.06169
 
 https://github.com/devinluo27/potential-motion-plan-release
+
+## Dynamically Feasible Trajectory Generation with Optimization-Embedded Networks for Autonomous Flight
+HZC
+
+https://www.bilibili.com/video/BV1QzP1emE1f/?spm_id_from=333.337.search-card.all.click&vd_source=da80bc9214d3db960766d67bbf0f7a09
+
+https://arxiv.org/abs/2405.07736
+
+https://ieeexplore.ieee.org/document/11106766
+
+https://zju-fast-lab.github.io/e2e_opt/
+
+https://github.com/ZJU-FAST-Lab/e2e_opt
