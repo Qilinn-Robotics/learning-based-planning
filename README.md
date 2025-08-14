@@ -78,6 +78,10 @@ https://arxiv.org/abs/2405.07736
 
 https://ieeexplore.ieee.org/document/11106766
 
-https://zju-fast-lab.github.io/e2e_opt/
+## QuAD: Query-based Interpretable Neural Motion Planning for Autonomous Driving
+
+https://waabi.ai/quad/
+
+https://arxiv.org/abs/2404.01486
 
 https://github.com/ZJU-FAST-Lab/e2e_opt
